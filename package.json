@@ -1,6 +1,6 @@
 {
-  "name": "react-native-switch",
-  "version": "1.5.0",
+  "name": "@ducdh-origin/react-native-switch",
+  "version": "0.0.2",
   "description": "Customisable switch component for RN",
   "main": "index.js",
   "types": "index.d.ts",
